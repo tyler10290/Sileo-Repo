@@ -1,6 +1,6 @@
 {
-	"minVersion": "0.1",
-	"headerImage": "https://raw.githubusercontent.com/uchks/repo.me/master/assets/Banners/RepoHeader.png",
+	"minVersion": "15.0",
+	"headerImage": "https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/Tweaks/QuickActionColor/headerrepo.png",
 	"tintColor": "#ffae8e",
 	"tabs": [
 		{
