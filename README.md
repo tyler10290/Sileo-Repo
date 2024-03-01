@@ -4,6 +4,5 @@
 <h1 align="left">tyler10290 - My Sileo Repo</h1>
 <br>
 Jailbreak - Repo is available for all package managers.
-<br>
 https://tyler10290.github.io/sileo-repo/
 <br>
