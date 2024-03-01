@@ -8,7 +8,8 @@
 		</firmware>
 	</compatibility>
 	<dependencies>
-		
+		<package>com.spark.snowboard</package>
+		<package>com.spark.snowboard.ui</package>
 	</dependencies>
 	<shortDescription>Change your lockscreen quick action color!</shortDescription>
 	<descriptionlist>
@@ -18,12 +19,18 @@
 	<screenshots>
 		<screenshot>
 			<description>screenshot</description>
-			<image>ss1.png</image>
+			<image>Blue.png</image>
 		</screenshot>
 		<screenshot>
 			<description>screenshot2</description>
-			<image>ss2.png</image>
-		</screenshot>		
+			<image>Green.png</image>
+		<screenshot>
+			<description>screenshot</description>
+			<image>Pink.png</image>
+		</screenshot>
+		<screenshot>
+			<description>screenshot2</description>
+			<image>Rainbow.png</image>		
 	</screenshots>
 	<changelog>
 		<change>Initial release on Sileo</change>
