@@ -1,0 +1,19 @@
+Package: com.tyler.novulntools2
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Tweaks
+Maintainer: Tyler
+Depends: mobilesubstrate
+Filename: ./debians/com.tyler.novulntools2.deb
+Size: 26636
+MD5sum: fd0ffa1f30474134d4a00ebafd617471
+SHA1: 98964b396b3229d7528a5fcdb9c862353ab261ba
+SHA256: 291d7a81d5f1231cb8fdb3fd01b3987796f08af89255290752fa8815df50e43f
+SHA512: c6cd4db0c478ad5c199822de7173c473d31feeb2919eebf7ea1f4b2019061211cc867e6539b84560e2c6368b14648f9401cb01f7841348d4d5f43fe2a72563bd
+Description: The best toolbox for your devices!
+Author: Tyler
+Name: NoVulnTools2
+Icon: https://tyler10290.github.io/sileo-repo/assets/icons/nvt2.png
+Depiction: https://tyler10290.github.io/sileo-repo/depictions/web/?p=com.tyler.novulntools2
+SileoDepiction: https://tyler10290.github.io/sileo-repo/depictions/native/com.tyler.novulntools2/depiction.json
+
