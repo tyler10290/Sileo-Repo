@@ -13,4 +13,6 @@ SHA512: 39cbde240bc076982617cc72c9cc0f15a8eb160f4c7c6ff5c310ae1cd0f2968d2862b925
 Description: NoVulnTools2 - Test
 Author: Tyler
 Name: NoVulnTools2
-Icon: 
+Icon: https://tyler10290.github.io/sileo-repo/assets/icons/nvt2.png
+Depiction: https://tyler10290.github.io/sileo-repo/depictions/web/?p=com.tyler.novulntools2
+SileoDepiction: https://tyler10290.github.io/sileo-repo/depictions/native/com.tyler.novulntools2/depiction.json
