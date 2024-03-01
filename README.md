@@ -3,4 +3,4 @@
 Sileo repo for all my tweaks 🍓
 
 ## Sileo Repo
-You can add my sileo repo by copying the following URL: https://tyler10290.github.io/tyler10290/
+You can add my sileo repo by copying the following URL: https://tyler10290.github.io/sileo-repo/
