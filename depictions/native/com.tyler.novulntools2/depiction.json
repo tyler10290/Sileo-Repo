@@ -1,6 +1,6 @@
 {
 	"minVersion": "0.1",
-	"tintColor": "#1de4bb",
+	"tintColor": "#FF0080",
 	"tabs": [
 		{
 			"tabname": "Details",
@@ -22,11 +22,11 @@
 					"screenshots": [
 						{
 							"accessibilityText": "screenshot",
-							"url": "https://epos05.github.io/eposbox/depictions/web/com.epos.bronkoh/screenshots/ss.png"
+							"url": "https://tyler10290.github.io/sileo-repo/depictions/web/com.tyler.novulntools2/screenshots/ss1.png"
 						},
 						{
 							"accessibilityText": "screenshot2",
-							"url": "https://epos05.github.io/eposbox/depictions/web/com.epos.bronkoh/screenshots/ss2.png"
+							"url": "https://tyler10290.github.io/sileo-repo/depictions/web/com.tyler.novulntools2/screenshots/ss2.png"
 						}
 					]
 				},
@@ -48,7 +48,7 @@
 					"useBottomMargin": false
 				},
 				{
-					"markdown": "Change your font to the 'Bronkoh' font!",
+					"markdown": "NoVulnTools is an all in one toolbox for your devices\nIt has:\n\n• UI Animation Speed\n• Custom side button speed\n• Playing sound upon pasting things\n• Your build version in the CC or status bar\n• Haptic upon wake for iPhone\n• Better battery information\n\nAnd much more.\n\nOnce you have configured your options head to Settings ➜ NoVulnTools2.",
 					"useSpacing": true,
 					"class": "DepictionMarkdownView"
 				},
@@ -105,12 +105,12 @@
 					"class": "DepictionSubheaderView"
 				},
 				{
-					"markdown": "\t\n\u2022 Initial release on Sileo",
+					"markdown": "\t\n\u2024 Initial release on Sileo",
 					"useSpacing": false,
 					"class": "DepictionMarkdownView"
 				},
 				{
-					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 22-2-2024</small>",
+					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 01-03-2024</small>",
 					"useRawFormat": true,
 					"class": "DepictionMarkdownView"
 				}
