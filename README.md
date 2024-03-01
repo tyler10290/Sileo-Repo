@@ -14,10 +14,3 @@ https://tyler10290.github.io/sileo-repo/
 ```
 
 <br>
-
-## Misaka (MDC & KFD)
-Use the following URL to start using tyler10290 with **misaka**:
-
-```
-https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/repo.json
-```
