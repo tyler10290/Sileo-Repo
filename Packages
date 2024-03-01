@@ -1,0 +1,34 @@
+Package: com.tyler.novulntools2
+Architecture: iphoneos-arm64
+Version: 1.0
+Maintainer: Tyler
+Installed-Size: 193
+Depends: preferenceloader
+Filename: ./debians/com.tyler.novulntools2.deb
+Size: 26532
+MD5sum: 62af02e85dd45ce0bf58a3d276a2a4fd
+SHA1: d3132fa8a8a611a518f1b34b6656d3144ae132cc
+SHA256: dee68a08a7e19d5f15d58464ca6e1cc3b9976c6de7efd0345b5ce2915aeda9a9
+SHA512: 39cbde240bc076982617cc72c9cc0f15a8eb160f4c7c6ff5c310ae1cd0f2968d2862b9258360abe424fe101231a179be5e0daca11f5ffd12b5da3cce51711e3e
+Description: NoVulnTools2 - Test
+Author: Tyler
+Name: NoVulnTools2
+
+Package: com.tyler.qac
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Themes
+Maintainer: Tyler
+Filename: ./debians/com.tyler.qac..deb
+Size: 121872
+MD5sum: d1c2676f2d0f2fc5f84934b9981163dd
+SHA1: 42b1a7285ecb24745342043d29e4ea15b3233fbd
+SHA256: 41d309f64d28b448f480fb935c4e1f335c01f3d753795b0b94bd291e3611c8e0
+SHA512: 3444782c189cdd17723129d10279ef8c718f561ec283585b2152d93e8c4e4b5a899e19190176e912376fb3e8161c091e5f9b1484eabd3d64c0bfc5cafdf0861f
+Description: A fresh new look for your iPhone!
+Depiction: https://repo.cypwn.xyz/depiction/1786
+SileoDepiction: https://repo.cypwn.xyz/sileo_depiction/1786
+Name: QuickActionColor
+Author: Tyler
+Icon: https://github.com/tyler10290/MisakaRepoBackup/blob/main/Tweaks/QuickActionColor/icon.png
+
