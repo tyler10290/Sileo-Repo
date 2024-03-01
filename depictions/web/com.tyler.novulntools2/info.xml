@@ -4,42 +4,34 @@
 	<version>1.0</version>
 	<compatibility>
 		<firmware>
-			<miniOS>15.0</miniOS>
+			<miniOS>0.1</miniOS>
 		</firmware>
 	</compatibility>
 	<dependencies>
-		<package>mobilesubstrate</package>
+		
 	</dependencies>
-	<shortDescription>This is a sample new package. Firmware should be greater than 7.0</shortDescription>
+	<shortDescription>Change your font!</shortDescription>
 	<descriptionlist>
-		<description>This is an package will full depictions.</description>
-		<description>It has more description lines.</description>
-		<description><![CDATA[
-		You can also have<br/> 
-		a multi-line item.
-		]]>
-		</description>
+		<description>The best toolbox for your devices!</description>
+		<description></description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
-			<description>This is a description for screenshot 1. It's Cydia!</description>
-			<image>cydia.jpg</image>
-		</screenshot>		
+			<description>screenshot</description>
+			<image>ss1.png</image>
+		</screenshot>
 		<screenshot>
-			<description>This is a description for screenshot 2. It's another Cydia!</description>
-			<image>cydia.jpg</image>
+			<description>screenshot2</description>
+			<image>ss2.png</image>
 		</screenshot>		
 	</screenshots>
 	<changelog>
-		<change>Second release</change>
-		<change>It has feature 1</change>
-		<change>It has feature 2</change>
+		<change>Initial release on Sileo</change>
 	</changelog>
 	<links>
 		<link>
-			<name>/r/jailbreak</name>
-			<url>https://www.reddit.com/r/jailbreak</url>
-			<iconclass>fa fa-reddit</iconclass>
+			<name>Twitter</name>
+			<url>https://twitter.com/tyler10290</url>
 		</link>
 	</links>
 </package>
