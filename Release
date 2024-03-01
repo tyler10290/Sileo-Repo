@@ -1,10 +1,10 @@
 Architectures: iphoneos-arm64
-Codename: epos
+Codename: tyler
 Components: main
 Date: Sat, 24 Feb 2024 15:59:23 +0000
-Description: The repo made for you
-Label: EPOSbox
-Origin: EPOSbox
+Description: Test
+Label: tyler10290
+Origin: tyler10290
 Suite: stable
 Version: 1.0
 MD5Sum:
