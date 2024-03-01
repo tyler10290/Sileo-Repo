@@ -7,7 +7,7 @@
 <br>
 
 ## Jailbreak - Repo is available for all package managers.
-Use the following URL to start using EPOSbox with **Jailbreak**:
+Use the following URL to start using my tweaks.
 
 ```
 https://tyler10290.github.io/sileo-repo/
