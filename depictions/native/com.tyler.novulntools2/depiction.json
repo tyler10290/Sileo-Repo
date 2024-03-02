@@ -7,7 +7,7 @@
 			"tabname": "Details",
 			"views": [
 				{
-					"useBoldText": true,
+					"useBoldText": false,
 					"class": "DepictionSubheaderView",
 					"title": "The best toolbox for your devices!",
 					"useBottomMargin": false
