@@ -8,7 +8,7 @@
 				{
 					"useBoldText": true,
 					"class": "DepictionSubheaderView",
-					"title": "Change you lockscreen quick action colors!",
+					"title": "Change your lockscreen quick action colors!",
 					"useBottomMargin": false
 				},
 				{
@@ -56,7 +56,7 @@
 					"useBottomMargin": false
 				},
 				{
-					"markdown": "I'll sort this bit tomorrow 🙃",
+					"markdown": "A very simple tweak to change your lockscreen quick action color, The colors are dependent on wallpaper vibrancy & wallpaper type so no colors will be the same, On iOS 16 when playing music the toggles will fade slowly when set the rainbow.",
 					"useSpacing": true,
 					"class": "DepictionMarkdownView"
 				},
