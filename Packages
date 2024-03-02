@@ -1,0 +1,38 @@
+Package: com.tyler.novulntools2
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Tweaks
+Maintainer: Tyler
+Depends: mobilesubstrate
+Filename: ./debians/com.tyler.novulntools2.deb
+Size: 26636
+MD5sum: fd0ffa1f30474134d4a00ebafd617471
+SHA1: 98964b396b3229d7528a5fcdb9c862353ab261ba
+SHA256: 291d7a81d5f1231cb8fdb3fd01b3987796f08af89255290752fa8815df50e43f
+SHA512: c6cd4db0c478ad5c199822de7173c473d31feeb2919eebf7ea1f4b2019061211cc867e6539b84560e2c6368b14648f9401cb01f7841348d4d5f43fe2a72563bd
+Description: The best toolbox for your devices!
+Author: Tyler
+Name: NoVulnTools2
+Icon: https://tyler10290.github.io/sileo-repo/assets/icons/nvt2.png
+Depiction: https://tyler10290.github.io/sileo-repo/depictions/web/?p=com.tyler.novulntools2
+SileoDepiction: https://tyler10290.github.io/sileo-repo/depictions/native/com.tyler.novulntools2/depiction.json
+
+Package: com.tyler.quickactioncolor
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Theme
+Maintainer: Tyler
+Depends: com.spark.snowboard.ui
+Filename: ./debians/com.tyler.quickactioncolor.deb
+Size: 48924
+MD5sum: e31d21e9301575e7683973601b2f1d10
+SHA1: 2cb61ffad0194c72bd45f1b8cd3b37f22853cb29
+SHA256: 74372963ebf60a2868dee7d37fb537c270caa5fd5fea3240cc191238e62891a6
+SHA512: a6af24b0eab1f393b9613a41cf96f319e80cf5da63470d23a17c9a6388c4825013fb922f9820b6dbb29deabd3448077a95258c90d92ba6ccc88af32121a3acd8
+Description: Change your lockscreen quick action color!
+Author: Tyler
+Name: QuickActionColor
+Icon: https://tyler10290.github.io/sileo-repo/assets/icons/qac.png
+Depiction: https://tyler10290.github.io/sileo-repo/depictions/web/?p=com.tyler.quickactioncolor
+SileoDepiction: https://tyler10290.github.io/sileo-repo/depictions/native/com.tyler.quickactioncolor/depiction.json
+

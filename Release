@@ -1,0 +1,37 @@
+Architectures: iphoneos-arm64
+Codename: tyler
+Components: main
+Date: Sat, 02 Mar 2024 09:54:04 +0000
+Description: Misaka repo ported to Sileo
+Label: tyler10290
+Origin: tyler10290
+Suite: stable
+Version: 1.0
+MD5Sum:
+ e075f2b58c94e84630a78d58bc5d2c34             1721 Packages
+ bc6a20b4c2ae66bf908e45cbdc1f4a95              890 Packages.bz2
+ 4522513e1db35898e31d0e1848893e6b              792 Packages.gz
+ eb544512248d47ac3c45d024e0ca3c49              860 Packages.xz
+ 9a584371496889fe07cfe6c2c242ec18              786 Packages.zst
+ c5b21503034ad8e7b1075786102a1eb7              206 Release
+SHA1:
+ ad049207fd914daa3fddd36ecf7664868b33faf9             1721 Packages
+ 2108b29d91e4d4b690a235e2942afa78a565257d              890 Packages.bz2
+ d753cf3cac6e30423d07a5caca491018b05ee3db              792 Packages.gz
+ ce976eaba616d353c33368e3d9dc755b7d7cdfec              860 Packages.xz
+ b2d49ddd1d1691f212ddf06fac80fea00f5809d2              786 Packages.zst
+ 1b6d09fcac7e8dfeb5c4295dddecc1618b1c8270              206 Release
+SHA256:
+ ae9fdf7c4802b297fbe1fd0217183e2940de391e5296ff21fe203cc3c7ed5f04             1721 Packages
+ 6ab631ef7241b261960444f7778f09e93af975f52ff7b53f493a4a58f2b2f769              890 Packages.bz2
+ dc3730706c2e40f4a51b920657a4061ffe346c92d541fd6d0c35eae10fc1f197              792 Packages.gz
+ 7ac2149b7bc34d8f65b9ac2297c4982f1cf2cb0d3049bb22f882dd2bec78787f              860 Packages.xz
+ 3b2405715f22849b1b951687076c6c2642424a2f047e73b3f4773f7c8b579a8e              786 Packages.zst
+ d379a43faf40ab31446574c1940817ba047663561b7473d505b19ffe82df40c3              206 Release
+SHA512:
+ 2c1da48ebeafb0792909354aa12678af67f436d2f2cbf3760d5539852194454289a00bb3b0a131729e08d8e78f03d9cce847bf31083701648708ec8cb8150522             1721 Packages
+ 41fc5e78f3cc583ba84672b4da6f0d73ff7ffe1348f0ae9eaac98a0aca246af1a71e65867a8e4ea0872da5d9694f8ce7a4aec8d2ca4b263ba69cf784a90961f9              890 Packages.bz2
+ 3b09bf312168da49203cf0700fcb6abeb01a0f385426d3a6a49570a10d28c5acb768d9a6ae871daeff562e7f06abff2eba490082a82d9aa2cd95903e29cda72a              792 Packages.gz
+ 2b9c0ca93d31b35dc1ffdb3a0512aa0c2c90a6c92e45712a380c3fd1df7e1fd0474c5ca2b6f2af2762a043bfbb317f9b495cd2a4d44a0a635af8bbce139556d1              860 Packages.xz
+ ecbebfd4b599a00c0c727f025d1ca2caeae6482e3a4ed9282861e3fa45b5b5e66205f7f66d4276241deff6d5076095fa8ac192795e169eb01573b490a026153a              786 Packages.zst
+ 798592777cc357fc34d6a26c51a7b544096c80e74c9650d67efff30c11ab978c0cf50cdfb702a28f14ab3714a81c10865b36f8e36ba455c51856b35c555cd2cd              206 Release
