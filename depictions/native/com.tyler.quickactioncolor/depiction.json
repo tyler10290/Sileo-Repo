@@ -7,7 +7,7 @@
 			"tabname": "Details",
 			"views": [
 				{
-					"useBoldText": true,
+					"useBoldText": false,
 					"class": "DepictionSubheaderView",
 					"title": "Change your lockscreen quick action colors!",
 					"useBottomMargin": false
