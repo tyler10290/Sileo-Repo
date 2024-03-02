@@ -17,7 +17,7 @@
 				},
 				{
 					"itemSize": "{160, 275.41333333333336}",
-					"itemCornerRadius": 6,
+					"itemCornerRadius": 10,
 					"class": "DepictionScreenshotsView",
 					"screenshots": [
 						{
@@ -27,6 +27,14 @@
 						{
 							"accessibilityText": "screenshot2",
 							"url": "https://tyler10290.github.io/sileo-repo/depictions/web/com.tyler.quickactioncolor/screenshots/ss2.png"
+						},
+						{
+							"accessibilityText": "screenshot2",
+							"url": "https://tyler10290.github.io/sileo-repo/depictions/web/com.tyler.quickactioncolor/screenshots/ss3.png"
+						},
+						{
+							"accessibilityText": "screenshot2",
+							"url": "https://tyler10290.github.io/sileo-repo/depictions/web/com.tyler.quickactioncolor/screenshots/ss4.png"
 						}
 					]
 				},
