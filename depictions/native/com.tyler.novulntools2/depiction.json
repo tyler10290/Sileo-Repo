@@ -1,6 +1,7 @@
 {
 	"minVersion": "0.1",
 	"tintColor": "#FF0080",
+	"headerImage": "https://tyler10290.github.io/sileo-repo/assets/banners/nvt2.png"
 	"tabs": [
 		{
 			"tabname": "Details",
