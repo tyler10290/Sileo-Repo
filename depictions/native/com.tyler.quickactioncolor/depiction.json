@@ -1,0 +1,122 @@
+{
+	"minVersion": "0.1",
+	"tintColor": "#FF0080",
+	"tabs": [
+		{
+			"tabname": "Details",
+			"views": [
+				{
+					"useBoldText": true,
+					"class": "DepictionSubheaderView",
+					"title": "Change you lockscreen quick action colors!",
+					"useBottomMargin": false
+				},
+				{
+					"class": "DepictionSpacerView",
+					"spacing": 8
+				},
+				{
+					"itemSize": "{160, 275.41333333333336}",
+					"itemCornerRadius": 6,
+					"class": "DepictionScreenshotsView",
+					"screenshots": [
+						{
+							"accessibilityText": "screenshot",
+							"url": "https://tyler10290.github.io/sileo-repo/depictions/web/com.tyler.quickactioncolor/screenshots/ss1.png"
+						},
+						{
+							"accessibilityText": "screenshot2",
+							"url": "https://tyler10290.github.io/sileo-repo/depictions/web/com.tyler.quickactioncolor/screenshots/ss2.png"
+						}
+					]
+				},
+				{
+					"spacing": 20,
+					"class": "DepictionSpacerView"
+				},
+				{
+					"title": "Description",
+					"class": "DepictionHeaderView"
+				},
+				{
+					"class": "DepictionSeparatorView"
+				},
+				{
+					"useBoldText": true,
+					"class": "DepictionSubheaderView",
+					"title": "QuickActionColor",
+					"useBottomMargin": false
+				},
+				{
+					"markdown": "I'll sort this bit tomorrow 🙃",
+					"useSpacing": true,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"spacing": 20,
+					"class": "DepictionSpacerView"
+				},
+				{
+					"title": "Information",
+					"class": "DepictionHeaderView"
+				},
+				{
+					"class": "DepictionSeparatorView"
+				},
+				{
+					"title": "Version",
+					"text": "1.0",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "Updated",
+					"text": "01-03-2024",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "Price",
+					"text": "Free",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "Developer",
+					"text": "Tyler",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "Twitter",
+					"action": "https://twitter.com/tyler10290",
+					"class": "DepictionTableButtonView"
+				},
+				{
+					"spacing": 20,
+					"class": "DepictionSpacerView"
+				}
+			],
+			"class": "DepictionStackView"
+		},
+		{
+			"tabname": "Changelog",
+			"views": [
+				{
+					"title": "1.0",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "\t\n\u2024 Initial release on Sileo",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 01-03-2024</small>",
+					"useRawFormat": true,
+					"class": "DepictionMarkdownView"
+				}
+			],
+			"class": "DepictionStackView"
+		}
+	],
+	"class": "DepictionTabView"
+}
