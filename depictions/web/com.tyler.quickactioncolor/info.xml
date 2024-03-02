@@ -1,0 +1,37 @@
+<package>
+	<id>com.tyler.quickactioncolor</id>
+	<name>NoVulnTools2</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>0.1</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		
+	</dependencies>
+	<shortDescription>Bring color to your lockscreen</shortDescription>
+	<descriptionlist>
+		<description>Change your lockscreen quick action color!</description>
+		<description></description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>screenshot</description>
+			<image>ss1.png</image>
+		</screenshot>
+		<screenshot>
+			<description>screenshot2</description>
+			<image>ss2.png</image>
+		</screenshot>		
+	</screenshots>
+	<changelog>
+		<change>Initial release on Sileo</change>
+	</changelog>
+	<links>
+		<link>
+			<name>Twitter</name>
+			<url>https://twitter.com/tyler10290</url>
+		</link>
+	</links>
+</package>
