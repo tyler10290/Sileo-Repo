@@ -57,7 +57,7 @@
 					"useBottomMargin": false
 				},
 				{
-					"markdown": "A very simple tweak to change your lockscreen quick action color, The colors are dependent on wallpaper vibrancy & wallpaper type so no colors will be the same, On iOS 16 when playing music the toggles will fade slowly when set to rainbow.",
+					"markdown": "A very simple tweak to change your lockscreen quick action color, The colors are dependent on wallpaper vibrancy & wallpaper type so no colors will be the same, On iOS 16 when playing music the toggles will fade slowly when set to rainbow. \n\n Current Colors\n*Blue \n*Green \n*Pink \n*Rainbow \n\n More colors wipl be added with updates.",
 					"useSpacing": true,
 					"class": "DepictionMarkdownView"
 				},
