@@ -105,6 +105,17 @@
 					"class": "DepictionMarkdownView"
 				},
 				{
+					"title": "1.1",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "Fixed an issue with the bundle icon for @2x devices.",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
 					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 01-03-2024</small>",
 					"useRawFormat": true,
 					"class": "DepictionMarkdownView"
