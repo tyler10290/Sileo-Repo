@@ -1,15 +1,15 @@
 Package: com.tyler.novulntools2
 Architecture: iphoneos-arm64
-Version: 1.0
+Version: 1.1
 Section: Tweaks
 Maintainer: Tyler
 Depends: mobilesubstrate
 Filename: ./debians/com.tyler.novulntools2.deb
-Size: 26636
-MD5sum: fd0ffa1f30474134d4a00ebafd617471
-SHA1: 98964b396b3229d7528a5fcdb9c862353ab261ba
-SHA256: 291d7a81d5f1231cb8fdb3fd01b3987796f08af89255290752fa8815df50e43f
-SHA512: c6cd4db0c478ad5c199822de7173c473d31feeb2919eebf7ea1f4b2019061211cc867e6539b84560e2c6368b14648f9401cb01f7841348d4d5f43fe2a72563bd
+Size: 27964
+MD5sum: 0b27008855925e9441bb24d9861e70b7
+SHA1: 3eb45c0f9e58e0a04e5a1239170980e6f270dfd2
+SHA256: 86f664b3008b922559439f5b60c1249feac7dea5d734936349a4e74228ff95d0
+SHA512: 351d3351a846c604e40f27b676fe8847913b29076056a11886d678195dbbe455fbbe7688535d5ad33d44949c3f14f31fb0602a74494dec4f8160d23c81894d95
 Description: The best toolbox for your devices!
 Author: Tyler
 Name: NoVulnTools2
